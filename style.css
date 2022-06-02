@@ -1,0 +1,16 @@
+h2{
+    display: inline-block;
+    margin: 0px;
+}
+img{
+    width: 50px;
+    margin: 0px;
+}
+.movie{
+    background: wheat;
+    
+}
+#inputName{
+    width: 500px;
+    height: 40px;
+}
